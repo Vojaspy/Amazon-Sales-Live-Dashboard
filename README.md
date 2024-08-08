@@ -35,9 +35,9 @@ Use this dashboard to gain insights into your Amazon sales data, track performan
 The dashboard's interactive filters for cities and products allow for tailored analysis, making it easy to focus on specific areas of interest.
 
 ## Screenshots and Video
+https://github.com/user-attachments/assets/3324f40b-542d-43bf-b1e1-1f8276d8f679
+
 ![image](https://github.com/user-attachments/assets/c0071b33-58cd-4dee-adbf-af5ef34a8795)
-
-
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are always welcome!
