@@ -36,7 +36,8 @@ The dashboard's interactive filters for cities and products allow for tailored a
 
 ## Screenshots and Video
 ![image](https://github.com/user-attachments/assets/c0071b33-58cd-4dee-adbf-af5ef34a8795)
-https://github.com/user-attachments/assets/caad4e27-ae7b-4b52-b6d0-26f14ea4a1b0
+
+
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are always welcome!
